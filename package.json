@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "console-clear": "^1.1.0",
+    "needle": "^2.2.0",
+    "readline-promise": "^1.0.3"
+  }
+}
